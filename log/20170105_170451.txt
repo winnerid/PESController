@@ -1,0 +1,18 @@
+2017-01-05 17:04:57,588 - PESController - INFO -  Setting digit: 2612
+2017-01-05 17:05:30,243 - PESController - INFO -  New asset a2612.ts done!
+2017-01-05 17:05:39,553 - PESController - INFO -  Scramble asset a2612.ts with product 0003 done!
+2017-01-05 17:05:39,555 - PESController - INFO -  Setting digit: 2a11
+2017-01-05 17:06:10,180 - PESController - INFO -  New asset a2a11.ts done!
+2017-01-05 17:06:19,381 - PESController - INFO -  Scramble asset a2a11.ts with product 0003 done!
+2017-01-05 17:06:19,381 - PESController - INFO -  Setting digit: 2111
+2017-01-05 17:06:50,016 - PESController - INFO -  New asset b2111.ts done!
+2017-01-05 17:06:59,230 - PESController - INFO -  Scramble asset b2111.ts with product 0004 done!
+2017-01-05 17:06:59,230 - PESController - INFO -  Setting digit: 3722
+2017-01-05 17:07:29,739 - PESController - INFO -  New asset b3722.ts done!
+2017-01-05 17:07:39,006 - PESController - INFO -  Scramble asset b3722.ts with product 0004 done!
+2017-01-05 17:07:39,007 - PESController - INFO -  Setting digit: 3112
+2017-01-05 17:08:09,721 - PESController - INFO -  New asset s3112.ts done!
+2017-01-05 17:08:18,967 - PESController - INFO -  Scramble asset s3112.ts with product 0005 done!
+2017-01-05 17:08:18,967 - PESController - INFO -  Setting digit: 2821
+2017-01-05 17:08:49,450 - PESController - INFO -  New asset s2821.ts done!
+2017-01-05 17:08:58,707 - PESController - INFO -  Scramble asset s2821.ts with product 0005 done!

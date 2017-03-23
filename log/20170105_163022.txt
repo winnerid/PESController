@@ -1,0 +1,7 @@
+2017-01-05 16:30:28,243 - PESController - INFO -  Setting digit:2612
+2017-01-05 16:31:00,871 - PESController - INFO -  New asset successfully: a2612.ts
+2017-01-05 16:31:12,190 - PESController - INFO -  nScramble asset with product: 0003
+2017-01-05 16:31:12,191 - PESController - INFO -  Setting digit:2a11
+2017-01-05 16:31:47,013 - PESController - INFO -  New asset successfully: a2a11.ts
+2017-01-05 16:31:56,240 - PESController - INFO -  nScramble asset with product: 0003
+2017-01-05 16:31:56,242 - PESController - INFO -  Setting digit:2111

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE config SYSTEM "config.dtd">
+<config 
+	scramalgorithm="AES"
+	assetsdirectory="/assets"
+	use_mounted_dev_assets_dir="false"
+	reencryptassetsdirectory="/reencryptassets"
+	outputlocation="/var/ftp/assets/%a"
+	outputurl="ftp://%h/assets/%a"
+	keyreduction="true"
+	mwport="33109"
+	clearstreamtypes=""
+	clearstreampids="">
+  <ecminsertion
+		cryptoperiod="30"
+		repetitionrate="300"
+		transition_delay_start="1000"
+		reencryptECMreplacementdelay="0"
+		mode="video"
+		indexfilecreation="true"
+		point="before"
+		separateECM="false">
+		<start_code_value>0xB8</start_code_value>
+		<NAL_unit_type>7</NAL_unit_type>
+  </ecminsertion>
+  <ecmg
+  	ip_address="10.86.8.145"
+  	port="5000"
+  	super_CAS_ID="0x6250000"
+  	ECM_pid="0x555"/>
+  <!--
+	  <ecmg
+	  	ip_address="192.168.33.2"
+	  	port="5001"
+	  	super_CAS_ID="0x6050000"
+	  	ECM_pid="0x556"/>
+	  <cluster
+	  	master_ip="192.168.33.141"
+	  	scrambleruser="PESuser">
+	  	<member ip_address="192.168.33.23" capability="MANAGER"/>
+	  	<member ip_address="192.168.33.24" capability="SCRAMBLER"/>
+	  	<member ip_address="192.168.33.25" capability="BOTH"/>
+	  </cluster>
+  -->
+</config>

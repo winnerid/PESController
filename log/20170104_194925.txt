@@ -1,0 +1,18 @@
+2017-01-04 19:49:31,451 - PESController - INFO -  Setting digit:2612
+2017-01-04 19:50:06,335 - PESController - INFO -  New asset successfully: a2612.ts
+2017-01-04 19:50:59,198 - PESController - ERROR - cannot find expected result in output!.
+2017-01-04 19:50:59,200 - PESController - INFO -  Setting digit:2a11
+2017-01-04 19:51:29,795 - PESController - INFO -  New asset successfully: a2a11.ts
+2017-01-04 19:52:22,607 - PESController - ERROR - cannot find expected result in output!.
+2017-01-04 19:52:22,608 - PESController - INFO -  Setting digit:3722
+2017-01-04 19:52:53,298 - PESController - INFO -  New asset successfully: a3722.ts
+2017-01-04 19:53:46,134 - PESController - ERROR - cannot find expected result in output!.
+2017-01-04 19:53:46,137 - PESController - INFO -  Setting digit:2111
+2017-01-04 19:54:16,585 - PESController - INFO -  New asset successfully: b2111.ts
+2017-01-04 19:55:09,424 - PESController - ERROR - cannot find expected result in output!.
+2017-01-04 19:55:09,426 - PESController - INFO -  Setting digit:3112
+2017-01-04 19:55:39,967 - PESController - INFO -  New asset successfully: s3112.ts
+2017-01-04 19:56:33,006 - PESController - ERROR - cannot find expected result in output!.
+2017-01-04 19:56:33,006 - PESController - INFO -  Setting digit:2821
+2017-01-04 19:57:03,726 - PESController - INFO -  New asset successfully: s2821.ts
+2017-01-04 19:57:56,532 - PESController - ERROR - cannot find expected result in output!.

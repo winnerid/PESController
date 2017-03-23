@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<InterfaceTool_Setting>
+		<Path>D:\8. SCOT\PES Interface Tool 3.9.exe</Path>
+		<!-- Please put 'clear' vedio file at FTP root location!-->
+		<FTP>ftp://10.86.10.6</FTP>
+		<clearTs>h264.ts</clearTs> 
+		<!-- Below value is hex mode-->
+		<systemID>0626</systemID>
+		<NetworkID>5000</NetworkID>
+		<TransportID>0001</TransportID>
+		<SectorNo>00</SectorNo>
+		<serviceID>0001</serviceID>
+	</InterfaceTool_Setting>
+	
+	<KMS_Info>
+		<IP>10.86.9.171</IP>
+		<port>4350</port>
+		<CAS_ID>0x6260000</CAS_ID>
+	</KMS_Info>
+	
+	<PES_Info>
+		<PES_IP>10.86.200.75</PES_IP>
+		<USER>root</USER>
+		<PWD>pes123</PWD>
+	</PES_Info>
+	
+	<PES_Algrithm_Combination>
+		<AssetVodPID>0003</AssetVodPID>
+		<BasicVodPID>0004</BasicVodPID>
+		<SubscriptionVodPID>0005</SubscriptionVodPID>
+		<!--
+		<AssetVod>1612</AssetVod>
+		<BasicVod>2111</BasicVod>
+		<SubscriptionVod>3112</SubscriptionVod>
+		
+		<AssetVod>2612,2611,3a22,3b11,1522,3511,3313,3a23,4713,4822,4222,3112,1111</AssetVod>
+		<BasicVod>2111,2611,3a22,3b11,1522,3511,3313,3a23,4713,4822,4222,3112,3722</BasicVod>
+		<SubscriptionVod>3112,2611,3a22,3b11,1522,3511,3313,3a23,4713,4822,4222,3112,2821</SubscriptionVod>
+		<AssetVod></AssetVod>
+		<BasicVod>3722</BasicVod>
+		<SubscriptionVod></SubscriptionVod>
+		-->
+		<AssetVod>2612,2a11</AssetVod>
+		<BasicVod>2111,3722</BasicVod>
+		<SubscriptionVod>3112,2821</SubscriptionVod>
+</PES_Algrithm_Combination>
+	
+	<Common>
+		<rpm>pes-3.10.2-8.el5.i386.rpm</rpm>
+		<remoteDir>/var/william/</remoteDir>
+	</Common>
+</config>

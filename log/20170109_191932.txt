@@ -1,0 +1,11 @@
+2017-01-09 19:19:46,793 - PESController - INFO -  Setting algrithm digits: 2612 on PES server.
+2017-01-09 19:19:55,434 - PESController - INFO -  New ReEncrypt a2612.ts done!
+2017-01-09 19:20:06,134 - PESController - INFO -  ReEncrypt asset a2612.ts done!
+2017-01-09 19:20:06,134 - PESController - INFO -  Setting algrithm digits: 2a11 on PES server.
+2017-01-09 19:20:14,477 - PESController - INFO -  New ReEncrypt a2a11.ts done!
+2017-01-09 19:20:24,513 - PESController - INFO -  ReEncrypt asset a2a11.ts done!
+2017-01-09 19:20:24,515 - PESController - INFO -  Setting algrithm digits: 2111 on PES server.
+2017-01-09 19:20:35,072 - PESController - INFO -  New ReEncrypt b2111.ts done!
+2017-01-09 19:20:50,608 - PESController - INFO -  ReEncrypt asset b2111.ts done!
+2017-01-09 19:21:13,678 - PESController - INFO -  Setting algrithm digits: 3722 on PES server.
+2017-01-09 19:23:23,792 - PESController - INFO -  New ReEncrypt b3722.ts done!

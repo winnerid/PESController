@@ -1,0 +1,4 @@
+2017-01-05 16:55:39,950 - PESController - INFO -  Setting digit: 2612
+2017-01-05 16:56:11,437 - PESController - INFO -  New asset successfully: a2612.ts
+2017-01-05 16:56:20,717 - PESController - INFO -  Scramble asset a2612.tswith product 0003successfully!
+2017-01-05 16:56:20,717 - PESController - INFO -  Setting digit: 2a11

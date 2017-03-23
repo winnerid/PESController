@@ -1,0 +1,18 @@
+2017-01-06 16:49:45,875 - PESController - INFO -  Setting algrithm digits: 2612 on PES server.
+2017-01-06 16:49:54,983 - PESController - INFO -  New asset a2612.ts done!
+2017-01-06 16:50:06,552 - PESController - INFO -  Scramble asset a2612.ts with product 0003 done!
+2017-01-06 16:50:06,552 - PESController - INFO -  Setting algrithm digits: 2a11 on PES server.
+2017-01-06 16:50:17,612 - PESController - INFO -  New asset a2a11.ts done!
+2017-01-06 16:50:27,003 - PESController - INFO -  Scramble asset a2a11.ts with product 0003 done!
+2017-01-06 16:50:27,005 - PESController - INFO -  Setting algrithm digits: 2111 on PES server.
+2017-01-06 16:50:38,016 - PESController - INFO -  New asset b2111.ts done!
+2017-01-06 16:50:47,392 - PESController - INFO -  Scramble asset b2111.ts with product 0004 done!
+2017-01-06 16:50:47,394 - PESController - INFO -  Setting algrithm digits: 3722 on PES server.
+2017-01-06 16:50:58,384 - PESController - INFO -  New asset b3722.ts done!
+2017-01-06 16:51:07,786 - PESController - INFO -  Scramble asset b3722.ts with product 0004 done!
+2017-01-06 16:51:07,788 - PESController - INFO -  Setting algrithm digits: 3112 on PES server.
+2017-01-06 16:51:18,772 - PESController - INFO -  New asset s3112.ts done!
+2017-01-06 16:51:28,178 - PESController - INFO -  Scramble asset s3112.ts with product 0005 done!
+2017-01-06 16:51:28,180 - PESController - INFO -  Setting algrithm digits: 2821 on PES server.
+2017-01-06 16:51:39,219 - PESController - INFO -  New asset s2821.ts done!
+2017-01-06 16:51:48,586 - PESController - INFO -  Scramble asset s2821.ts with product 0005 done!

@@ -1,0 +1,3 @@
+2017-01-09 18:39:38,190 - PESController - INFO -  Setting algrithm digits: 3722 on PES server.
+2017-01-09 18:40:35,040 - PESController - ERROR - cannot find "Status="NEW"" in output: [[[['', u'    <Result Command="newReEncryptAsset" Code="0"/>\n']]]]
+2017-01-09 18:41:43,196 - PESController - ERROR - cannot find "Status="SCRAMBLED"" in output: [[[['', u'    <Result Command="reEncryptAsset" Code="1">\n', u'      <Description>asset not in re-encryption todolist\n', u'</Description>\n', u'    </Result>\n']]]]

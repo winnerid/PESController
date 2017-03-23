@@ -1,0 +1,18 @@
+2017-01-05 16:41:33,125 - PESController - INFO -  Setting digit: 2612
+2017-01-05 16:42:08,104 - PESController - INFO -  New asset successfully: a2612.ts
+2017-01-05 16:42:17,515 - PESController - INFO -  nScramble asset with product: 0003
+2017-01-05 16:42:17,516 - PESController - INFO -  Setting digit: 2a11
+2017-01-05 16:42:50,170 - PESController - INFO -  New asset successfully: a2a11.ts
+2017-01-05 16:42:59,348 - PESController - INFO -  nScramble asset with product: 0003
+2017-01-05 16:42:59,348 - PESController - INFO -  Setting digit: 2111
+2017-01-05 16:43:31,953 - PESController - INFO -  New asset successfully: b2111.ts
+2017-01-05 16:43:41,186 - PESController - INFO -  nScramble asset with product: 0004
+2017-01-05 16:43:41,187 - PESController - INFO -  Setting digit: 3722
+2017-01-05 16:44:13,918 - PESController - INFO -  New asset successfully: b3722.ts
+2017-01-05 16:44:23,197 - PESController - INFO -  nScramble asset with product: 0004
+2017-01-05 16:44:23,197 - PESController - INFO -  Setting digit: 3112
+2017-01-05 16:44:57,690 - PESController - INFO -  New asset successfully: s3112.ts
+2017-01-05 16:45:04,990 - PESController - INFO -  nScramble asset with product: 0005
+2017-01-05 16:45:04,990 - PESController - INFO -  Setting digit: 2821
+2017-01-05 16:45:37,684 - PESController - INFO -  New asset successfully: s2821.ts
+2017-01-05 16:45:49,085 - PESController - INFO -  nScramble asset with product: 0005

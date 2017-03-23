@@ -1,0 +1,11 @@
+2017-01-05 17:27:07,536 - PESController - INFO -  Setting algrithm digits: 2612 on PES server.
+2017-01-05 17:27:39,575 - PESController - INFO -  New ReEncrypt a2612.ts done!
+2017-01-05 17:27:49,709 - PESController - INFO -  ReEncrypt asset a2612.ts done!
+2017-01-05 17:27:49,710 - PESController - INFO -  Setting algrithm digits: 2a11 on PES server.
+2017-01-05 17:28:21,667 - PESController - INFO -  New ReEncrypt a2a11.ts done!
+2017-01-05 17:28:29,520 - PESController - INFO -  ReEncrypt asset a2a11.ts done!
+2017-01-05 17:28:29,522 - PESController - INFO -  Setting algrithm digits: 2111 on PES server.
+2017-01-05 17:28:59,605 - PESController - INFO -  New ReEncrypt b2111.ts done!
+2017-01-05 17:29:55,204 - PESController - ERROR - cannot find "Status="SCRAMBLED"" in output: [[[['', u'    <Result Command="reEncryptAsset" Code="0">\n', u'      <PESLocation URL="ftp://pes551/assets/b2111.ts"/>\n', u'    </Result>\n', u'    <Notify Code="0">\n', u'      <ToDolistitem AssetName="b2111.ts" Status="SCRAMBLING" Progress="0%"/>\n', u'    </Notify>\n', u'    <Notify Code="1">\n', u'      <ToDolistitem AssetName="b2111.ts" Status="RETRY"/>\n', u'      <Description>Asset scrambling failed: Unknown error</Description>\n', u'    </Notify>\n']]]]
+2017-01-05 17:29:55,206 - PESController - INFO -  Setting algrithm digits: 3722 on PES server.
+2017-01-05 17:30:04,627 - PESController - INFO -  New ReEncrypt b3722.ts done!

@@ -1,0 +1,11 @@
+2017-01-09 19:44:19,612 - PESController - INFO -  Setting algrithm digits: 2612 on PES server.
+2017-01-09 19:44:29,697 - PESController - INFO -  New ReEncrypt a2612.ts done!
+2017-01-09 19:54:42,802 - PESController - ERROR - cannot find "Status="SCRAMBLED"" in output: [[[['']]]]
+2017-01-09 19:54:42,802 - PESController - INFO -  Setting algrithm digits: 2a11 on PES server.
+2017-01-09 19:54:52,789 - PESController - INFO -  New ReEncrypt a2a11.ts done!
+2017-01-09 19:55:01,930 - PESController - INFO -  ReEncrypt asset a2a11.ts done!
+2017-01-09 19:55:01,930 - PESController - INFO -  Setting algrithm digits: 2111 on PES server.
+2017-01-09 19:55:09,878 - PESController - INFO -  New ReEncrypt b2111.ts done!
+2017-01-09 19:55:19,056 - PESController - INFO -  ReEncrypt asset b2111.ts done!
+2017-01-09 19:55:19,058 - PESController - INFO -  Setting algrithm digits: 3722 on PES server.
+2017-01-09 20:05:48,888 - PESController - ERROR - cannot find "Status="NEW"" in output: [[[['', u'    <Result Command="newReEncryptAsset" Code="0"/>\n']]]]

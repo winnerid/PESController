@@ -1,0 +1,11 @@
+2017-01-09 17:13:34,865 - PESController - INFO -  Setting algrithm digits: 2612 on PES server.
+2017-01-09 17:13:45,000 - PESController - INFO -  New ReEncrypt a2612.ts done!
+2017-01-09 17:13:54,562 - PESController - INFO -  ReEncrypt asset a2612.ts done!
+2017-01-09 17:13:54,563 - PESController - INFO -  Setting algrithm digits: 2a11 on PES server.
+2017-01-09 17:14:04,535 - PESController - INFO -  New ReEncrypt a2a11.ts done!
+2017-01-09 17:14:13,528 - PESController - INFO -  ReEncrypt asset a2a11.ts done!
+2017-01-09 17:14:13,528 - PESController - INFO -  Setting algrithm digits: 2111 on PES server.
+2017-01-09 17:14:23,457 - PESController - INFO -  New ReEncrypt b2111.ts done!
+2017-01-09 17:14:32,471 - PESController - INFO -  ReEncrypt asset b2111.ts done!
+2017-01-09 17:14:32,473 - PESController - INFO -  Setting algrithm digits: 3722 on PES server.
+2017-01-09 17:15:29,394 - PESController - ERROR - cannot find "Status="NEW"" in output: [[[['', u'    <Result Command="newReEncryptAsset" Code="0"/>\n']]]]

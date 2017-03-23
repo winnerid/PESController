@@ -1,0 +1,18 @@
+2017-01-05 18:52:57,263 - PESController - INFO -  Setting algrithm digits: 1612 on PES server.
+2017-01-05 18:53:26,980 - PESController - INFO -  New asset a1612.ts done!
+2017-01-05 18:54:01,448 - PESController - INFO -  Scramble asset a1612.ts with product 0003 done!
+2017-01-05 18:54:01,450 - PESController - INFO -  Setting algrithm digits: 2111 on PES server.
+2017-01-05 18:54:31,085 - PESController - INFO -  New asset b2111.ts done!
+2017-01-05 18:54:40,502 - PESController - INFO -  Scramble asset b2111.ts with product 0004 done!
+2017-01-05 18:54:40,503 - PESController - INFO -  Setting algrithm digits: 3112 on PES server.
+2017-01-05 18:55:10,147 - PESController - INFO -  New asset s3112.ts done!
+2017-01-05 18:55:17,628 - PESController - INFO -  Scramble asset s3112.ts with product 0005 done!
+2017-01-05 18:55:17,628 - PESController - INFO -  Setting algrithm digits: 1612 on PES server.
+2017-01-05 18:55:48,285 - PESController - INFO -  New ReEncrypt a1612.ts done!
+2017-01-05 18:55:58,305 - PESController - INFO -  ReEncrypt asset a1612.ts done!
+2017-01-05 18:55:58,306 - PESController - INFO -  Setting algrithm digits: 2111 on PES server.
+2017-01-05 18:56:29,019 - PESController - INFO -  New ReEncrypt b2111.ts done!
+2017-01-05 18:56:39,194 - PESController - INFO -  ReEncrypt asset b2111.ts done!
+2017-01-05 18:56:39,194 - PESController - INFO -  Setting algrithm digits: 3112 on PES server.
+2017-01-05 18:57:05,946 - PESController - INFO -  New ReEncrypt s3112.ts done!
+2017-01-05 18:57:13,826 - PESController - INFO -  ReEncrypt asset s3112.ts done!

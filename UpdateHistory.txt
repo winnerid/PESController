@@ -1,0 +1,20 @@
+2016-07-29
+	* stPESConfigInfo.txt -> stPESConfigInfo.xml
+	* .pl/.py changed accordingly
+	* change stPESController.py function, e.g. rpmfile as preparePESEnvironment para instead of __init__
+	
+2016-08-10
+	* Add "upload" folder, modify related code
+	
+2016-12-21
+	* Change .sh L42 from current_ver=`rpm -qa | grep pes` to current_ver=`rpm -qa | grep "^pes.*el"``, since other rpm matched "pes" also.
+	
+2017-01-01
+ + Phase two
+ 
+ 2017-01-06
+  Almost done
+  
+  2017-01-09
+  + Handle if no digit given for vod list
+  + FTP SERVER NEED SET NO CONNECTION TIME OUT 

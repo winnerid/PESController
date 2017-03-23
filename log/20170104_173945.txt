@@ -1,0 +1,2 @@
+2017-01-04 17:39:51,010 - PESController - INFO -  Setting digit:2612
+2017-01-04 17:40:25,658 - PESController - INFO -  New asset successfully: a2612.ts
